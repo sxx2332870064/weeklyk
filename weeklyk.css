@@ -1,0 +1,46 @@
+
+.relative1{
+    position: relative;
+    width: 425px;
+    height: 300px;
+    border: 2px solid#000;
+    background-color: rgba(202, 246, 255, 0.5);
+}
+
+
+.relative2{
+    position: relative;
+    width: 425px;
+    height: 300px;
+    border: 2px solid#000;
+    background-color: rgba(148, 216, 255, 0.5);
+}
+
+
+
+.relative3{
+    position: relative;
+    width: 425px;
+    height: 300px;
+    border: 2px solid#000;
+    background-color: rgba(139, 170, 255, 0.5);
+}
+
+
+.relative4{
+    position: relative;
+    width: 425px;
+    height: 300px;
+    border: 2px solid#000;
+    background-color: rgba(117, 117, 255, 0.5);
+}
+
+
+.relative5{
+    position: relative;
+    width: 425px;
+    height: 300px;
+    border: 2px solid#000;
+    background-color: rgba(98, 46, 255, 0.5);
+}
+
